@@ -1,7 +1,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="google-site-verification" content="google-site-verification: googlee9e5cbe581716d39.html" />
+<meta name="google-site-verification" content="google-site-verification:googlea4864619cab1772f.html" />
 <title>Everything is Exercise</title>
     <style>
         body{
